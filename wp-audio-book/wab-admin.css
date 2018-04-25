@@ -1,0 +1,6 @@
+.wab-repeatable-fieldset .fields-wrapper {width:85%; float:left;}
+.wab-repeatable-fieldset .button-wrapper {width:15%; float:left; text-align:right;}
+.fields-wrapper input[type="text"], .fields-wrapper textarea{
+	width:100%;
+}
+.wab-repeatable-fieldset td{border-bottom:1px solid #DDD;  padding:20px 0;}
